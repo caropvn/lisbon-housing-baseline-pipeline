@@ -1,0 +1,745 @@
+date,region,sex,unemployment_rate_pct,year,quarter
+2011-01-01,Continente,F,13.8,2011,1
+2011-01-01,Continente,M,12.700000000000001,2011,1
+2011-01-01,Continente,MF,13.200000000000001,2011,1
+2011-04-01,Continente,F,13.3,2011,2
+2011-04-01,Continente,M,12.600000000000001,2011,2
+2011-04-01,Continente,MF,12.9,2011,2
+2011-07-01,Continente,F,13.9,2011,3
+2011-07-01,Continente,M,12.700000000000001,2011,3
+2011-07-01,Continente,MF,13.3,2011,3
+2011-10-01,Continente,F,15.0,2011,4
+2011-10-01,Continente,M,14.4,2011,4
+2011-10-01,Continente,MF,14.700000000000001,2011,4
+2012-01-01,Continente,F,16.0,2012,1
+2012-01-01,Continente,M,15.5,2012,1
+2012-01-01,Continente,MF,15.700000000000001,2012,1
+2012-04-01,Continente,F,15.600000000000001,2012,2
+2012-04-01,Continente,M,15.9,2012,2
+2012-04-01,Continente,MF,15.8,2012,2
+2012-07-01,Continente,F,16.400000000000002,2012,3
+2012-07-01,Continente,M,16.900000000000002,2012,3
+2012-07-01,Continente,MF,16.7,2012,3
+2012-10-01,Continente,F,17.900000000000002,2012,4
+2012-10-01,Continente,M,17.6,2012,4
+2012-10-01,Continente,MF,17.7,2012,4
+2013-01-01,Continente,F,18.3,2013,1
+2013-01-01,Continente,M,18.7,2013,1
+2013-01-01,Continente,MF,18.5,2013,1
+2013-04-01,Continente,F,17.7,2013,2
+2013-04-01,Continente,M,17.3,2013,2
+2013-04-01,Continente,MF,17.5,2013,2
+2013-07-01,Continente,F,16.7,2013,3
+2013-07-01,Continente,M,16.1,2013,3
+2013-07-01,Continente,MF,16.400000000000002,2013,3
+2013-10-01,Continente,F,16.5,2013,4
+2013-10-01,Continente,M,15.5,2013,4
+2013-10-01,Continente,MF,16.0,2013,4
+2014-01-01,Continente,F,15.700000000000001,2014,1
+2014-01-01,Continente,M,15.8,2014,1
+2014-01-01,Continente,MF,15.700000000000001,2014,1
+2014-04-01,Continente,F,14.8,2014,2
+2014-04-01,Continente,M,14.3,2014,2
+2014-04-01,Continente,MF,14.5,2014,2
+2014-07-01,Continente,F,14.4,2014,3
+2014-07-01,Continente,M,12.9,2014,3
+2014-07-01,Continente,MF,13.600000000000001,2014,3
+2014-10-01,Continente,F,14.100000000000001,2014,4
+2014-10-01,Continente,M,13.700000000000001,2014,4
+2014-10-01,Continente,MF,13.9,2014,4
+2015-01-01,Continente,F,14.8,2015,1
+2015-01-01,Continente,M,13.600000000000001,2015,1
+2015-01-01,Continente,MF,14.200000000000001,2015,1
+2015-04-01,Continente,F,12.3,2015,2
+2015-04-01,Continente,M,12.5,2015,2
+2015-04-01,Continente,MF,12.4,2015,2
+2015-07-01,Continente,F,12.700000000000001,2015,3
+2015-07-01,Continente,M,11.9,2015,3
+2015-07-01,Continente,MF,12.3,2015,3
+2015-10-01,Continente,F,12.5,2015,4
+2015-10-01,Continente,M,12.5,2015,4
+2015-10-01,Continente,MF,12.5,2015,4
+2016-01-01,Continente,F,12.700000000000001,2016,1
+2016-01-01,Continente,M,12.9,2016,1
+2016-01-01,Continente,MF,12.8,2016,1
+2016-04-01,Continente,F,11.200000000000001,2016,2
+2016-04-01,Continente,M,11.100000000000001,2016,2
+2016-04-01,Continente,MF,11.200000000000001,2016,2
+2016-07-01,Continente,F,11.0,2016,3
+2016-07-01,Continente,M,10.700000000000001,2016,3
+2016-07-01,Continente,MF,10.9,2016,3
+2016-10-01,Continente,F,10.8,2016,4
+2016-10-01,Continente,M,10.8,2016,4
+2016-10-01,Continente,MF,10.8,2016,4
+2017-01-01,Continente,F,10.700000000000001,2017,1
+2017-01-01,Continente,M,10.100000000000001,2017,1
+2017-01-01,Continente,MF,10.4,2017,1
+2017-04-01,Continente,F,9.5,2017,2
+2017-04-01,Continente,M,8.700000000000001,2017,2
+2017-04-01,Continente,MF,9.1,2017,2
+2017-07-01,Continente,F,9.600000000000001,2017,3
+2017-07-01,Continente,M,8.0,2017,3
+2017-07-01,Continente,MF,8.8,2017,3
+2017-10-01,Continente,F,8.6,2017,4
+2017-10-01,Continente,M,8.0,2017,4
+2017-10-01,Continente,MF,8.3,2017,4
+2018-01-01,Continente,F,8.200000000000001,2018,1
+2018-01-01,Continente,M,7.9,2018,1
+2018-01-01,Continente,MF,8.0,2018,1
+2018-04-01,Continente,F,7.2,2018,2
+2018-04-01,Continente,M,6.5,2018,2
+2018-04-01,Continente,MF,6.9,2018,2
+2018-07-01,Continente,F,7.300000000000001,2018,3
+2018-07-01,Continente,M,6.300000000000001,2018,3
+2018-07-01,Continente,MF,6.800000000000001,2018,3
+2018-10-01,Continente,F,7.300000000000001,2018,4
+2018-10-01,Continente,M,6.1000000000000005,2018,4
+2018-10-01,Continente,MF,6.7,2018,4
+2019-01-01,Continente,F,7.6000000000000005,2019,1
+2019-01-01,Continente,M,6.2,2019,1
+2019-01-01,Continente,MF,6.9,2019,1
+2019-04-01,Continente,F,6.6000000000000005,2019,2
+2019-04-01,Continente,M,6.0,2019,2
+2019-04-01,Continente,MF,6.300000000000001,2019,2
+2019-07-01,Continente,F,6.9,2019,3
+2019-07-01,Continente,M,5.5,2019,3
+2019-07-01,Continente,MF,6.2,2019,3
+2019-10-01,Continente,F,7.6000000000000005,2019,4
+2019-10-01,Continente,M,6.1000000000000005,2019,4
+2019-10-01,Continente,MF,6.800000000000001,2019,4
+2020-01-01,Continente,F,7.4,2020,1
+2020-01-01,Continente,M,6.300000000000001,2020,1
+2020-01-01,Continente,MF,6.9,2020,1
+2020-04-01,Continente,F,5.6000000000000005,2020,2
+2020-04-01,Continente,M,5.800000000000001,2020,2
+2020-04-01,Continente,MF,5.7,2020,2
+2020-07-01,Continente,F,8.3,2020,3
+2020-07-01,Continente,M,8.1,2020,3
+2020-07-01,Continente,MF,8.200000000000001,2020,3
+2020-10-01,Continente,F,7.5,2020,4
+2020-10-01,Continente,M,7.1000000000000005,2020,4
+2020-10-01,Continente,MF,7.300000000000001,2020,4
+2021-01-01,Continente,F,7.4,2021,1
+2021-01-01,Continente,M,7.0,2021,1
+2021-01-01,Continente,MF,7.2,2021,1
+2021-04-01,Continente,F,7.1000000000000005,2021,2
+2021-04-01,Continente,M,6.800000000000001,2021,2
+2021-04-01,Continente,MF,6.9,2021,2
+2021-07-01,Continente,F,6.9,2021,3
+2021-07-01,Continente,M,5.800000000000001,2021,3
+2021-07-01,Continente,MF,6.300000000000001,2021,3
+2021-10-01,Continente,F,6.5,2021,4
+2021-10-01,Continente,M,6.2,2021,4
+2021-10-01,Continente,MF,6.300000000000001,2021,4
+2022-01-01,Continente,F,6.5,2022,1
+2022-01-01,Continente,M,5.6000000000000005,2022,1
+2022-01-01,Continente,MF,6.0,2022,1
+2022-04-01,Continente,F,6.1000000000000005,2022,2
+2022-04-01,Continente,M,5.7,2022,2
+2022-04-01,Continente,MF,5.9,2022,2
+2022-07-01,Continente,F,6.5,2022,3
+2022-07-01,Continente,M,5.300000000000001,2022,3
+2022-07-01,Continente,MF,5.9,2022,3
+2022-10-01,Continente,F,7.1000000000000005,2022,4
+2022-10-01,Continente,M,6.300000000000001,2022,4
+2022-10-01,Continente,MF,6.7,2022,4
+2023-01-01,Continente,F,7.5,2023,1
+2023-01-01,Continente,M,6.9,2023,1
+2023-01-01,Continente,MF,7.2,2023,1
+2023-04-01,Continente,F,6.4,2023,2
+2023-04-01,Continente,M,5.800000000000001,2023,2
+2023-04-01,Continente,MF,6.1000000000000005,2023,2
+2023-07-01,Continente,F,6.7,2023,3
+2023-07-01,Continente,M,5.6000000000000005,2023,3
+2023-07-01,Continente,MF,6.1000000000000005,2023,3
+2023-10-01,Continente,F,6.9,2023,4
+2023-10-01,Continente,M,6.300000000000001,2023,4
+2023-10-01,Continente,MF,6.6000000000000005,2023,4
+2024-01-01,Continente,F,7.5,2024,1
+2024-01-01,Continente,M,6.2,2024,1
+2024-01-01,Continente,MF,6.800000000000001,2024,1
+2024-04-01,Continente,F,6.5,2024,2
+2024-04-01,Continente,M,5.800000000000001,2024,2
+2024-04-01,Continente,MF,6.2,2024,2
+2024-07-01,Continente,F,6.5,2024,3
+2024-07-01,Continente,M,5.800000000000001,2024,3
+2024-07-01,Continente,MF,6.2,2024,3
+2024-10-01,Continente,F,6.9,2024,4
+2024-10-01,Continente,M,6.6000000000000005,2024,4
+2024-10-01,Continente,MF,6.7,2024,4
+2025-01-01,Continente,F,7.0,2025,1
+2025-01-01,Continente,M,6.300000000000001,2025,1
+2025-01-01,Continente,MF,6.6000000000000005,2025,1
+2025-04-01,Continente,F,6.6000000000000005,2025,2
+2025-04-01,Continente,M,5.4,2025,2
+2025-04-01,Continente,MF,6.0,2025,2
+2025-07-01,Continente,F,6.300000000000001,2025,3
+2025-07-01,Continente,M,5.4,2025,3
+2025-07-01,Continente,MF,5.800000000000001,2025,3
+2025-10-01,Continente,F,6.4,2025,4
+2025-10-01,Continente,M,5.2,2025,4
+2025-10-01,Continente,MF,5.800000000000001,2025,4
+2026-01-01,Continente,F,6.9,2026,1
+2026-01-01,Continente,M,5.5,2026,1
+2026-01-01,Continente,MF,6.2,2026,1
+2026-04-01,Continente,F,5.800000000000001,2026,2
+2026-04-01,Continente,M,4.9,2026,2
+2026-04-01,Continente,MF,5.300000000000001,2026,2
+2011-01-01,Portugal,F,13.700000000000001,2011,1
+2011-01-01,Portugal,M,12.700000000000001,2011,1
+2011-01-01,Portugal,MF,13.100000000000001,2011,1
+2011-04-01,Portugal,F,13.200000000000001,2011,2
+2011-04-01,Portugal,M,12.600000000000001,2011,2
+2011-04-01,Portugal,MF,12.9,2011,2
+2011-07-01,Portugal,F,13.8,2011,3
+2011-07-01,Portugal,M,12.8,2011,3
+2011-07-01,Portugal,MF,13.3,2011,3
+2011-10-01,Portugal,F,14.9,2011,4
+2011-10-01,Portugal,M,14.5,2011,4
+2011-10-01,Portugal,MF,14.700000000000001,2011,4
+2012-01-01,Portugal,F,15.9,2012,1
+2012-01-01,Portugal,M,15.600000000000001,2012,1
+2012-01-01,Portugal,MF,15.700000000000001,2012,1
+2012-04-01,Portugal,F,15.600000000000001,2012,2
+2012-04-01,Portugal,M,16.0,2012,2
+2012-04-01,Portugal,MF,15.8,2012,2
+2012-07-01,Portugal,F,16.3,2012,3
+2012-07-01,Portugal,M,17.0,2012,3
+2012-07-01,Portugal,MF,16.7,2012,3
+2012-10-01,Portugal,F,17.7,2012,4
+2012-10-01,Portugal,M,17.8,2012,4
+2012-10-01,Portugal,MF,17.8,2012,4
+2013-01-01,Portugal,F,18.2,2013,1
+2013-01-01,Portugal,M,18.8,2013,1
+2013-01-01,Portugal,MF,18.5,2013,1
+2013-04-01,Portugal,F,17.6,2013,2
+2013-04-01,Portugal,M,17.5,2013,2
+2013-04-01,Portugal,MF,17.5,2013,2
+2013-07-01,Portugal,F,16.7,2013,3
+2013-07-01,Portugal,M,16.3,2013,3
+2013-07-01,Portugal,MF,16.5,2013,3
+2013-10-01,Portugal,F,16.5,2013,4
+2013-10-01,Portugal,M,15.600000000000001,2013,4
+2013-10-01,Portugal,MF,16.1,2013,4
+2014-01-01,Portugal,F,15.8,2014,1
+2014-01-01,Portugal,M,15.9,2014,1
+2014-01-01,Portugal,MF,15.8,2014,1
+2014-04-01,Portugal,F,14.9,2014,2
+2014-04-01,Portugal,M,14.4,2014,2
+2014-04-01,Portugal,MF,14.600000000000001,2014,2
+2014-07-01,Portugal,F,14.4,2014,3
+2014-07-01,Portugal,M,13.0,2014,3
+2014-07-01,Portugal,MF,13.700000000000001,2014,3
+2014-10-01,Portugal,F,14.100000000000001,2014,4
+2014-10-01,Portugal,M,13.9,2014,4
+2014-10-01,Portugal,MF,14.0,2014,4
+2015-01-01,Portugal,F,14.8,2015,1
+2015-01-01,Portugal,M,13.8,2015,1
+2015-01-01,Portugal,MF,14.3,2015,1
+2015-04-01,Portugal,F,12.3,2015,2
+2015-04-01,Portugal,M,12.600000000000001,2015,2
+2015-04-01,Portugal,MF,12.4,2015,2
+2015-07-01,Portugal,F,12.700000000000001,2015,3
+2015-07-01,Portugal,M,12.0,2015,3
+2015-07-01,Portugal,MF,12.3,2015,3
+2015-10-01,Portugal,F,12.600000000000001,2015,4
+2015-10-01,Portugal,M,12.600000000000001,2015,4
+2015-10-01,Portugal,MF,12.600000000000001,2015,4
+2016-01-01,Portugal,F,12.8,2016,1
+2016-01-01,Portugal,M,13.0,2016,1
+2016-01-01,Portugal,MF,12.9,2016,1
+2016-04-01,Portugal,F,11.200000000000001,2016,2
+2016-04-01,Portugal,M,11.3,2016,2
+2016-04-01,Portugal,MF,11.200000000000001,2016,2
+2016-07-01,Portugal,F,11.0,2016,3
+2016-07-01,Portugal,M,10.9,2016,3
+2016-07-01,Portugal,MF,10.9,2016,3
+2016-10-01,Portugal,F,10.700000000000001,2016,4
+2016-10-01,Portugal,M,10.9,2016,4
+2016-10-01,Portugal,MF,10.8,2016,4
+2017-01-01,Portugal,F,10.700000000000001,2017,1
+2017-01-01,Portugal,M,10.200000000000001,2017,1
+2017-01-01,Portugal,MF,10.4,2017,1
+2017-04-01,Portugal,F,9.5,2017,2
+2017-04-01,Portugal,M,8.8,2017,2
+2017-04-01,Portugal,MF,9.200000000000001,2017,2
+2017-07-01,Portugal,F,9.5,2017,3
+2017-07-01,Portugal,M,8.1,2017,3
+2017-07-01,Portugal,MF,8.8,2017,3
+2017-10-01,Portugal,F,8.6,2017,4
+2017-10-01,Portugal,M,8.0,2017,4
+2017-10-01,Portugal,MF,8.3,2017,4
+2018-01-01,Portugal,F,8.200000000000001,2018,1
+2018-01-01,Portugal,M,7.9,2018,1
+2018-01-01,Portugal,MF,8.1,2018,1
+2018-04-01,Portugal,F,7.300000000000001,2018,2
+2018-04-01,Portugal,M,6.7,2018,2
+2018-04-01,Portugal,MF,7.0,2018,2
+2018-07-01,Portugal,F,7.4,2018,3
+2018-07-01,Portugal,M,6.5,2018,3
+2018-07-01,Portugal,MF,6.9,2018,3
+2018-10-01,Portugal,F,7.300000000000001,2018,4
+2018-10-01,Portugal,M,6.2,2018,4
+2018-10-01,Portugal,MF,6.800000000000001,2018,4
+2019-01-01,Portugal,F,7.6000000000000005,2019,1
+2019-01-01,Portugal,M,6.2,2019,1
+2019-01-01,Portugal,MF,6.9,2019,1
+2019-04-01,Portugal,F,6.7,2019,2
+2019-04-01,Portugal,M,6.1000000000000005,2019,2
+2019-04-01,Portugal,MF,6.4,2019,2
+2019-07-01,Portugal,F,7.0,2019,3
+2019-07-01,Portugal,M,5.6000000000000005,2019,3
+2019-07-01,Portugal,MF,6.300000000000001,2019,3
+2019-10-01,Portugal,F,7.5,2019,4
+2019-10-01,Portugal,M,6.2,2019,4
+2019-10-01,Portugal,MF,6.800000000000001,2019,4
+2020-01-01,Portugal,F,7.4,2020,1
+2020-01-01,Portugal,M,6.4,2020,1
+2020-01-01,Portugal,MF,6.9,2020,1
+2020-04-01,Portugal,F,5.6000000000000005,2020,2
+2020-04-01,Portugal,M,5.800000000000001,2020,2
+2020-04-01,Portugal,MF,5.7,2020,2
+2020-07-01,Portugal,F,8.3,2020,3
+2020-07-01,Portugal,M,8.1,2020,3
+2020-07-01,Portugal,MF,8.200000000000001,2020,3
+2020-10-01,Portugal,F,7.5,2020,4
+2020-10-01,Portugal,M,7.1000000000000005,2020,4
+2020-10-01,Portugal,MF,7.300000000000001,2020,4
+2021-01-01,Portugal,F,7.5,2021,1
+2021-01-01,Portugal,M,7.0,2021,1
+2021-01-01,Portugal,MF,7.2,2021,1
+2021-04-01,Portugal,F,7.1000000000000005,2021,2
+2021-04-01,Portugal,M,6.800000000000001,2021,2
+2021-04-01,Portugal,MF,6.9,2021,2
+2021-07-01,Portugal,F,6.9,2021,3
+2021-07-01,Portugal,M,5.800000000000001,2021,3
+2021-07-01,Portugal,MF,6.300000000000001,2021,3
+2021-10-01,Portugal,F,6.5,2021,4
+2021-10-01,Portugal,M,6.300000000000001,2021,4
+2021-10-01,Portugal,MF,6.4,2021,4
+2022-01-01,Portugal,F,6.5,2022,1
+2022-01-01,Portugal,M,5.6000000000000005,2022,1
+2022-01-01,Portugal,MF,6.0,2022,1
+2022-04-01,Portugal,F,6.2,2022,2
+2022-04-01,Portugal,M,5.7,2022,2
+2022-04-01,Portugal,MF,5.9,2022,2
+2022-07-01,Portugal,F,6.5,2022,3
+2022-07-01,Portugal,M,5.300000000000001,2022,3
+2022-07-01,Portugal,MF,5.9,2022,3
+2022-10-01,Portugal,F,7.1000000000000005,2022,4
+2022-10-01,Portugal,M,6.2,2022,4
+2022-10-01,Portugal,MF,6.7,2022,4
+2023-01-01,Portugal,F,7.5,2023,1
+2023-01-01,Portugal,M,6.9,2023,1
+2023-01-01,Portugal,MF,7.2,2023,1
+2023-04-01,Portugal,F,6.4,2023,2
+2023-04-01,Portugal,M,5.800000000000001,2023,2
+2023-04-01,Portugal,MF,6.1000000000000005,2023,2
+2023-07-01,Portugal,F,6.7,2023,3
+2023-07-01,Portugal,M,5.6000000000000005,2023,3
+2023-07-01,Portugal,MF,6.1000000000000005,2023,3
+2023-10-01,Portugal,F,6.800000000000001,2023,4
+2023-10-01,Portugal,M,6.300000000000001,2023,4
+2023-10-01,Portugal,MF,6.6000000000000005,2023,4
+2024-01-01,Portugal,F,7.5,2024,1
+2024-01-01,Portugal,M,6.2,2024,1
+2024-01-01,Portugal,MF,6.800000000000001,2024,1
+2024-04-01,Portugal,F,6.5,2024,2
+2024-04-01,Portugal,M,5.7,2024,2
+2024-04-01,Portugal,MF,6.1000000000000005,2024,2
+2024-07-01,Portugal,F,6.5,2024,3
+2024-07-01,Portugal,M,5.800000000000001,2024,3
+2024-07-01,Portugal,MF,6.1000000000000005,2024,3
+2024-10-01,Portugal,F,6.9,2024,4
+2024-10-01,Portugal,M,6.5,2024,4
+2024-10-01,Portugal,MF,6.7,2024,4
+2025-01-01,Portugal,F,7.0,2025,1
+2025-01-01,Portugal,M,6.2,2025,1
+2025-01-01,Portugal,MF,6.6000000000000005,2025,1
+2025-04-01,Portugal,F,6.5,2025,2
+2025-04-01,Portugal,M,5.300000000000001,2025,2
+2025-04-01,Portugal,MF,5.9,2025,2
+2025-07-01,Portugal,F,6.2,2025,3
+2025-07-01,Portugal,M,5.4,2025,3
+2025-07-01,Portugal,MF,5.800000000000001,2025,3
+2025-10-01,Portugal,F,6.300000000000001,2025,4
+2025-10-01,Portugal,M,5.2,2025,4
+2025-10-01,Portugal,MF,5.800000000000001,2025,4
+2026-01-01,Portugal,F,6.800000000000001,2026,1
+2026-01-01,Portugal,M,5.5,2026,1
+2026-01-01,Portugal,MF,6.1000000000000005,2026,1
+2026-04-01,Portugal,F,5.7,2026,2
+2026-04-01,Portugal,M,4.800000000000001,2026,2
+2026-04-01,Portugal,MF,5.300000000000001,2026,2
+2011-01-01,Regiao Autonoma da Madeira,F,13.700000000000001,2011,1
+2011-01-01,Regiao Autonoma da Madeira,M,15.600000000000001,2011,1
+2011-01-01,Regiao Autonoma da Madeira,MF,14.700000000000001,2011,1
+2011-04-01,Regiao Autonoma da Madeira,F,12.700000000000001,2011,2
+2011-04-01,Regiao Autonoma da Madeira,M,16.0,2011,2
+2011-04-01,Regiao Autonoma da Madeira,MF,14.4,2011,2
+2011-07-01,Regiao Autonoma da Madeira,F,13.0,2011,3
+2011-07-01,Regiao Autonoma da Madeira,M,16.7,2011,3
+2011-07-01,Regiao Autonoma da Madeira,MF,14.9,2011,3
+2011-10-01,Regiao Autonoma da Madeira,F,,2011,4
+2011-10-01,Regiao Autonoma da Madeira,M,16.7,2011,4
+2011-10-01,Regiao Autonoma da Madeira,MF,14.0,2011,4
+2012-01-01,Regiao Autonoma da Madeira,F,14.4,2012,1
+2012-01-01,Regiao Autonoma da Madeira,M,19.6,2012,1
+2012-01-01,Regiao Autonoma da Madeira,MF,17.1,2012,1
+2012-04-01,Regiao Autonoma da Madeira,F,16.2,2012,2
+2012-04-01,Regiao Autonoma da Madeira,M,19.3,2012,2
+2012-04-01,Regiao Autonoma da Madeira,MF,17.8,2012,2
+2012-07-01,Regiao Autonoma da Madeira,F,16.0,2012,3
+2012-07-01,Regiao Autonoma da Madeira,M,21.1,2012,3
+2012-07-01,Regiao Autonoma da Madeira,MF,18.6,2012,3
+2012-10-01,Regiao Autonoma da Madeira,F,16.400000000000002,2012,4
+2012-10-01,Regiao Autonoma da Madeira,M,24.900000000000002,2012,4
+2012-10-01,Regiao Autonoma da Madeira,MF,20.700000000000003,2012,4
+2013-01-01,Regiao Autonoma da Madeira,F,18.6,2013,1
+2013-01-01,Regiao Autonoma da Madeira,M,23.5,2013,1
+2013-01-01,Regiao Autonoma da Madeira,MF,21.1,2013,1
+2013-04-01,Regiao Autonoma da Madeira,F,17.7,2013,2
+2013-04-01,Regiao Autonoma da Madeira,M,22.200000000000003,2013,2
+2013-04-01,Regiao Autonoma da Madeira,MF,20.0,2013,2
+2013-07-01,Regiao Autonoma da Madeira,F,16.1,2013,3
+2013-07-01,Regiao Autonoma da Madeira,M,19.900000000000002,2013,3
+2013-07-01,Regiao Autonoma da Madeira,MF,18.0,2013,3
+2013-10-01,Regiao Autonoma da Madeira,F,17.900000000000002,2013,4
+2013-10-01,Regiao Autonoma da Madeira,M,18.5,2013,4
+2013-10-01,Regiao Autonoma da Madeira,MF,18.2,2013,4
+2014-01-01,Regiao Autonoma da Madeira,F,15.8,2014,1
+2014-01-01,Regiao Autonoma da Madeira,M,18.8,2014,1
+2014-01-01,Regiao Autonoma da Madeira,MF,17.3,2014,1
+2014-04-01,Regiao Autonoma da Madeira,F,16.0,2014,2
+2014-04-01,Regiao Autonoma da Madeira,M,17.400000000000002,2014,2
+2014-04-01,Regiao Autonoma da Madeira,MF,16.7,2014,2
+2014-07-01,Regiao Autonoma da Madeira,F,,2014,3
+2014-07-01,Regiao Autonoma da Madeira,M,15.3,2014,3
+2014-07-01,Regiao Autonoma da Madeira,MF,14.0,2014,3
+2014-10-01,Regiao Autonoma da Madeira,F,14.200000000000001,2014,4
+2014-10-01,Regiao Autonoma da Madeira,M,17.8,2014,4
+2014-10-01,Regiao Autonoma da Madeira,MF,16.0,2014,4
+2015-01-01,Regiao Autonoma da Madeira,F,15.5,2015,1
+2015-01-01,Regiao Autonoma da Madeira,M,17.5,2015,1
+2015-01-01,Regiao Autonoma da Madeira,MF,16.5,2015,1
+2015-04-01,Regiao Autonoma da Madeira,F,,2015,2
+2015-04-01,Regiao Autonoma da Madeira,M,16.1,2015,2
+2015-04-01,Regiao Autonoma da Madeira,MF,14.200000000000001,2015,2
+2015-07-01,Regiao Autonoma da Madeira,F,14.8,2015,3
+2015-07-01,Regiao Autonoma da Madeira,M,16.3,2015,3
+2015-07-01,Regiao Autonoma da Madeira,MF,15.5,2015,3
+2015-10-01,Regiao Autonoma da Madeira,F,14.700000000000001,2015,4
+2015-10-01,Regiao Autonoma da Madeira,M,16.0,2015,4
+2015-10-01,Regiao Autonoma da Madeira,MF,15.3,2015,4
+2016-01-01,Regiao Autonoma da Madeira,F,14.4,2016,1
+2016-01-01,Regiao Autonoma da Madeira,M,15.4,2016,1
+2016-01-01,Regiao Autonoma da Madeira,MF,14.9,2016,1
+2016-04-01,Regiao Autonoma da Madeira,F,,2016,2
+2016-04-01,Regiao Autonoma da Madeira,M,15.9,2016,2
+2016-04-01,Regiao Autonoma da Madeira,MF,13.600000000000001,2016,2
+2016-07-01,Regiao Autonoma da Madeira,F,13.100000000000001,2016,3
+2016-07-01,Regiao Autonoma da Madeira,M,14.700000000000001,2016,3
+2016-07-01,Regiao Autonoma da Madeira,MF,13.9,2016,3
+2016-10-01,Regiao Autonoma da Madeira,F,,2016,4
+2016-10-01,Regiao Autonoma da Madeira,M,12.600000000000001,2016,4
+2016-10-01,Regiao Autonoma da Madeira,MF,11.5,2016,4
+2017-01-01,Regiao Autonoma da Madeira,F,,2017,1
+2017-01-01,Regiao Autonoma da Madeira,M,14.200000000000001,2017,1
+2017-01-01,Regiao Autonoma da Madeira,MF,13.100000000000001,2017,1
+2017-04-01,Regiao Autonoma da Madeira,F,,2017,2
+2017-04-01,Regiao Autonoma da Madeira,M,,2017,2
+2017-04-01,Regiao Autonoma da Madeira,MF,11.5,2017,2
+2017-07-01,Regiao Autonoma da Madeira,F,,2017,3
+2017-07-01,Regiao Autonoma da Madeira,M,,2017,3
+2017-07-01,Regiao Autonoma da Madeira,MF,9.600000000000001,2017,3
+2017-10-01,Regiao Autonoma da Madeira,F,,2017,4
+2017-10-01,Regiao Autonoma da Madeira,M,,2017,4
+2017-10-01,Regiao Autonoma da Madeira,MF,9.1,2017,4
+2018-01-01,Regiao Autonoma da Madeira,F,,2018,1
+2018-01-01,Regiao Autonoma da Madeira,M,,2018,1
+2018-01-01,Regiao Autonoma da Madeira,MF,9.1,2018,1
+2018-04-01,Regiao Autonoma da Madeira,F,,2018,2
+2018-04-01,Regiao Autonoma da Madeira,M,,2018,2
+2018-04-01,Regiao Autonoma da Madeira,MF,8.700000000000001,2018,2
+2018-07-01,Regiao Autonoma da Madeira,F,,2018,3
+2018-07-01,Regiao Autonoma da Madeira,M,,2018,3
+2018-07-01,Regiao Autonoma da Madeira,MF,9.200000000000001,2018,3
+2018-10-01,Regiao Autonoma da Madeira,F,,2018,4
+2018-10-01,Regiao Autonoma da Madeira,M,,2018,4
+2018-10-01,Regiao Autonoma da Madeira,MF,9.0,2018,4
+2019-01-01,Regiao Autonoma da Madeira,F,,2019,1
+2019-01-01,Regiao Autonoma da Madeira,M,,2019,1
+2019-01-01,Regiao Autonoma da Madeira,MF,7.5,2019,1
+2019-04-01,Regiao Autonoma da Madeira,F,,2019,2
+2019-04-01,Regiao Autonoma da Madeira,M,,2019,2
+2019-04-01,Regiao Autonoma da Madeira,MF,7.1000000000000005,2019,2
+2019-07-01,Regiao Autonoma da Madeira,F,,2019,3
+2019-07-01,Regiao Autonoma da Madeira,M,,2019,3
+2019-07-01,Regiao Autonoma da Madeira,MF,7.4,2019,3
+2019-10-01,Regiao Autonoma da Madeira,F,,2019,4
+2019-10-01,Regiao Autonoma da Madeira,M,,2019,4
+2019-10-01,Regiao Autonoma da Madeira,MF,7.2,2019,4
+2020-01-01,Regiao Autonoma da Madeira,F,,2020,1
+2020-01-01,Regiao Autonoma da Madeira,M,,2020,1
+2020-01-01,Regiao Autonoma da Madeira,MF,5.7,2020,1
+2020-04-01,Regiao Autonoma da Madeira,F,,2020,2
+2020-04-01,Regiao Autonoma da Madeira,M,,2020,2
+2020-04-01,Regiao Autonoma da Madeira,MF,6.6000000000000005,2020,2
+2020-07-01,Regiao Autonoma da Madeira,F,,2020,3
+2020-07-01,Regiao Autonoma da Madeira,M,,2020,3
+2020-07-01,Regiao Autonoma da Madeira,MF,8.6,2020,3
+2020-10-01,Regiao Autonoma da Madeira,F,,2020,4
+2020-10-01,Regiao Autonoma da Madeira,M,,2020,4
+2020-10-01,Regiao Autonoma da Madeira,MF,10.5,2020,4
+2021-01-01,Regiao Autonoma da Madeira,F,10.6,2021,1
+2021-01-01,Regiao Autonoma da Madeira,M,8.0,2021,1
+2021-01-01,Regiao Autonoma da Madeira,MF,9.3,2021,1
+2021-04-01,Regiao Autonoma da Madeira,F,8.8,2021,2
+2021-04-01,Regiao Autonoma da Madeira,M,7.4,2021,2
+2021-04-01,Regiao Autonoma da Madeira,MF,8.1,2021,2
+2021-07-01,Regiao Autonoma da Madeira,F,7.6,2021,3
+2021-07-01,Regiao Autonoma da Madeira,M,6.9,2021,3
+2021-07-01,Regiao Autonoma da Madeira,MF,7.3,2021,3
+2021-10-01,Regiao Autonoma da Madeira,F,6.4,2021,4
+2021-10-01,Regiao Autonoma da Madeira,M,6.1,2021,4
+2021-10-01,Regiao Autonoma da Madeira,MF,6.3,2021,4
+2022-01-01,Regiao Autonoma da Madeira,F,7.3,2022,1
+2022-01-01,Regiao Autonoma da Madeira,M,6.7,2022,1
+2022-01-01,Regiao Autonoma da Madeira,MF,7.0,2022,1
+2022-04-01,Regiao Autonoma da Madeira,F,6.8,2022,2
+2022-04-01,Regiao Autonoma da Madeira,M,7.4,2022,2
+2022-04-01,Regiao Autonoma da Madeira,MF,7.1,2022,2
+2022-07-01,Regiao Autonoma da Madeira,F,6.6,2022,3
+2022-07-01,Regiao Autonoma da Madeira,M,5.7,2022,3
+2022-07-01,Regiao Autonoma da Madeira,MF,6.1,2022,3
+2022-10-01,Regiao Autonoma da Madeira,F,7.8,2022,4
+2022-10-01,Regiao Autonoma da Madeira,M,6.2,2022,4
+2022-10-01,Regiao Autonoma da Madeira,MF,6.9,2022,4
+2023-01-01,Regiao Autonoma da Madeira,F,7.6,2023,1
+2023-01-01,Regiao Autonoma da Madeira,M,5.6,2023,1
+2023-01-01,Regiao Autonoma da Madeira,MF,6.5,2023,1
+2023-04-01,Regiao Autonoma da Madeira,F,6.8,2023,2
+2023-04-01,Regiao Autonoma da Madeira,M,6.0,2023,2
+2023-04-01,Regiao Autonoma da Madeira,MF,6.4,2023,2
+2023-07-01,Regiao Autonoma da Madeira,F,4.5,2023,3
+2023-07-01,Regiao Autonoma da Madeira,M,5.2,2023,3
+2023-07-01,Regiao Autonoma da Madeira,MF,4.9,2023,3
+2023-10-01,Regiao Autonoma da Madeira,F,6.0,2023,4
+2023-10-01,Regiao Autonoma da Madeira,M,6.2,2023,4
+2023-10-01,Regiao Autonoma da Madeira,MF,6.1,2023,4
+2024-01-01,Regiao Autonoma da Madeira,F,6.2,2024,1
+2024-01-01,Regiao Autonoma da Madeira,M,5.7,2024,1
+2024-01-01,Regiao Autonoma da Madeira,MF,5.9,2024,1
+2024-04-01,Regiao Autonoma da Madeira,F,5.2,2024,2
+2024-04-01,Regiao Autonoma da Madeira,M,5.2,2024,2
+2024-04-01,Regiao Autonoma da Madeira,MF,5.2,2024,2
+2024-07-01,Regiao Autonoma da Madeira,F,5.9,2024,3
+2024-07-01,Regiao Autonoma da Madeira,M,5.4,2024,3
+2024-07-01,Regiao Autonoma da Madeira,MF,5.7,2024,3
+2024-10-01,Regiao Autonoma da Madeira,F,6.3,2024,4
+2024-10-01,Regiao Autonoma da Madeira,M,5.2,2024,4
+2024-10-01,Regiao Autonoma da Madeira,MF,5.7,2024,4
+2025-01-01,Regiao Autonoma da Madeira,F,8.1,2025,1
+2025-01-01,Regiao Autonoma da Madeira,M,5.2,2025,1
+2025-01-01,Regiao Autonoma da Madeira,MF,6.7,2025,1
+2025-04-01,Regiao Autonoma da Madeira,F,5.3,2025,2
+2025-04-01,Regiao Autonoma da Madeira,M,4.3,2025,2
+2025-04-01,Regiao Autonoma da Madeira,MF,4.8,2025,2
+2025-07-01,Regiao Autonoma da Madeira,F,5.9,2025,3
+2025-07-01,Regiao Autonoma da Madeira,M,4.7,2025,3
+2025-07-01,Regiao Autonoma da Madeira,MF,5.3,2025,3
+2025-10-01,Regiao Autonoma da Madeira,F,5.6,2025,4
+2025-10-01,Regiao Autonoma da Madeira,M,4.2,2025,4
+2025-10-01,Regiao Autonoma da Madeira,MF,4.9,2025,4
+2026-01-01,Regiao Autonoma da Madeira,F,4.8,2026,1
+2026-01-01,Regiao Autonoma da Madeira,M,4.2,2026,1
+2026-01-01,Regiao Autonoma da Madeira,MF,4.5,2026,1
+2026-04-01,Regiao Autonoma da Madeira,F,,2026,2
+2026-04-01,Regiao Autonoma da Madeira,M,,2026,2
+2026-04-01,Regiao Autonoma da Madeira,MF,3.5,2026,2
+2011-01-01,Regiao Autonoma dos Acores,F,,2011,1
+2011-01-01,Regiao Autonoma dos Acores,M,,2011,1
+2011-01-01,Regiao Autonoma dos Acores,MF,9.600000000000001,2011,1
+2011-04-01,Regiao Autonoma dos Acores,F,,2011,2
+2011-04-01,Regiao Autonoma dos Acores,M,,2011,2
+2011-04-01,Regiao Autonoma dos Acores,MF,9.700000000000001,2011,2
+2011-07-01,Regiao Autonoma dos Acores,F,,2011,3
+2011-07-01,Regiao Autonoma dos Acores,M,12.200000000000001,2011,3
+2011-07-01,Regiao Autonoma dos Acores,MF,11.700000000000001,2011,3
+2011-10-01,Regiao Autonoma dos Acores,F,,2011,4
+2011-10-01,Regiao Autonoma dos Acores,M,16.2,2011,4
+2011-10-01,Regiao Autonoma dos Acores,MF,15.200000000000001,2011,4
+2012-01-01,Regiao Autonoma dos Acores,F,,2012,1
+2012-01-01,Regiao Autonoma dos Acores,M,15.8,2012,1
+2012-01-01,Regiao Autonoma dos Acores,MF,14.3,2012,1
+2012-04-01,Regiao Autonoma dos Acores,F,,2012,2
+2012-04-01,Regiao Autonoma dos Acores,M,16.900000000000002,2012,2
+2012-04-01,Regiao Autonoma dos Acores,MF,15.8,2012,2
+2012-07-01,Regiao Autonoma dos Acores,F,,2012,3
+2012-07-01,Regiao Autonoma dos Acores,M,16.8,2012,3
+2012-07-01,Regiao Autonoma dos Acores,MF,15.8,2012,3
+2012-10-01,Regiao Autonoma dos Acores,F,,2012,4
+2012-10-01,Regiao Autonoma dos Acores,M,19.0,2012,4
+2012-10-01,Regiao Autonoma dos Acores,MF,16.3,2012,4
+2013-01-01,Regiao Autonoma dos Acores,F,,2013,1
+2013-01-01,Regiao Autonoma dos Acores,M,20.1,2013,1
+2013-01-01,Regiao Autonoma dos Acores,MF,17.2,2013,1
+2013-04-01,Regiao Autonoma dos Acores,F,,2013,2
+2013-04-01,Regiao Autonoma dos Acores,M,19.0,2013,2
+2013-04-01,Regiao Autonoma dos Acores,MF,16.400000000000002,2013,2
+2013-07-01,Regiao Autonoma dos Acores,F,,2013,3
+2013-07-01,Regiao Autonoma dos Acores,M,21.700000000000003,2013,3
+2013-07-01,Regiao Autonoma dos Acores,MF,18.1,2013,3
+2013-10-01,Regiao Autonoma dos Acores,F,14.600000000000001,2013,4
+2013-10-01,Regiao Autonoma dos Acores,M,19.8,2013,4
+2013-10-01,Regiao Autonoma dos Acores,MF,17.5,2013,4
+2014-01-01,Regiao Autonoma dos Acores,F,17.1,2014,1
+2014-01-01,Regiao Autonoma dos Acores,M,19.200000000000003,2014,1
+2014-01-01,Regiao Autonoma dos Acores,MF,18.3,2014,1
+2014-04-01,Regiao Autonoma dos Acores,F,16.5,2014,2
+2014-04-01,Regiao Autonoma dos Acores,M,15.700000000000001,2014,2
+2014-04-01,Regiao Autonoma dos Acores,MF,16.1,2014,2
+2014-07-01,Regiao Autonoma dos Acores,F,16.8,2014,3
+2014-07-01,Regiao Autonoma dos Acores,M,15.200000000000001,2014,3
+2014-07-01,Regiao Autonoma dos Acores,MF,15.9,2014,3
+2014-10-01,Regiao Autonoma dos Acores,F,14.0,2014,4
+2014-10-01,Regiao Autonoma dos Acores,M,16.8,2014,4
+2014-10-01,Regiao Autonoma dos Acores,MF,15.5,2014,4
+2015-01-01,Regiao Autonoma dos Acores,F,,2015,1
+2015-01-01,Regiao Autonoma dos Acores,M,16.3,2015,1
+2015-01-01,Regiao Autonoma dos Acores,MF,14.8,2015,1
+2015-04-01,Regiao Autonoma dos Acores,F,,2015,2
+2015-04-01,Regiao Autonoma dos Acores,M,13.5,2015,2
+2015-04-01,Regiao Autonoma dos Acores,MF,11.200000000000001,2015,2
+2015-07-01,Regiao Autonoma dos Acores,F,,2015,3
+2015-07-01,Regiao Autonoma dos Acores,M,14.200000000000001,2015,3
+2015-07-01,Regiao Autonoma dos Acores,MF,12.0,2015,3
+2015-10-01,Regiao Autonoma dos Acores,F,,2015,4
+2015-10-01,Regiao Autonoma dos Acores,M,13.8,2015,4
+2015-10-01,Regiao Autonoma dos Acores,MF,12.5,2015,4
+2016-01-01,Regiao Autonoma dos Acores,F,,2016,1
+2016-01-01,Regiao Autonoma dos Acores,M,12.3,2016,1
+2016-01-01,Regiao Autonoma dos Acores,MF,12.200000000000001,2016,1
+2016-04-01,Regiao Autonoma dos Acores,F,,2016,2
+2016-04-01,Regiao Autonoma dos Acores,M,12.8,2016,2
+2016-04-01,Regiao Autonoma dos Acores,MF,11.0,2016,2
+2016-07-01,Regiao Autonoma dos Acores,F,,2016,3
+2016-07-01,Regiao Autonoma dos Acores,M,12.700000000000001,2016,3
+2016-07-01,Regiao Autonoma dos Acores,MF,10.600000000000001,2016,3
+2016-10-01,Regiao Autonoma dos Acores,F,,2016,4
+2016-10-01,Regiao Autonoma dos Acores,M,12.100000000000001,2016,4
+2016-10-01,Regiao Autonoma dos Acores,MF,10.3,2016,4
+2017-01-01,Regiao Autonoma dos Acores,F,,2017,1
+2017-01-01,Regiao Autonoma dos Acores,M,,2017,1
+2017-01-01,Regiao Autonoma dos Acores,MF,9.200000000000001,2017,1
+2017-04-01,Regiao Autonoma dos Acores,F,,2017,2
+2017-04-01,Regiao Autonoma dos Acores,M,,2017,2
+2017-04-01,Regiao Autonoma dos Acores,MF,10.100000000000001,2017,2
+2017-07-01,Regiao Autonoma dos Acores,F,,2017,3
+2017-07-01,Regiao Autonoma dos Acores,M,,2017,3
+2017-07-01,Regiao Autonoma dos Acores,MF,8.200000000000001,2017,3
+2017-10-01,Regiao Autonoma dos Acores,F,,2017,4
+2017-10-01,Regiao Autonoma dos Acores,M,,2017,4
+2017-10-01,Regiao Autonoma dos Acores,MF,8.1,2017,4
+2018-01-01,Regiao Autonoma dos Acores,F,,2018,1
+2018-01-01,Regiao Autonoma dos Acores,M,,2018,1
+2018-01-01,Regiao Autonoma dos Acores,MF,8.9,2018,1
+2018-04-01,Regiao Autonoma dos Acores,F,,2018,2
+2018-04-01,Regiao Autonoma dos Acores,M,,2018,2
+2018-04-01,Regiao Autonoma dos Acores,MF,8.1,2018,2
+2018-07-01,Regiao Autonoma dos Acores,F,,2018,3
+2018-07-01,Regiao Autonoma dos Acores,M,,2018,3
+2018-07-01,Regiao Autonoma dos Acores,MF,8.6,2018,3
+2018-10-01,Regiao Autonoma dos Acores,F,,2018,4
+2018-10-01,Regiao Autonoma dos Acores,M,,2018,4
+2018-10-01,Regiao Autonoma dos Acores,MF,8.200000000000001,2018,4
+2019-01-01,Regiao Autonoma dos Acores,F,,2019,1
+2019-01-01,Regiao Autonoma dos Acores,M,,2019,1
+2019-01-01,Regiao Autonoma dos Acores,MF,8.3,2019,1
+2019-04-01,Regiao Autonoma dos Acores,F,,2019,2
+2019-04-01,Regiao Autonoma dos Acores,M,,2019,2
+2019-04-01,Regiao Autonoma dos Acores,MF,8.0,2019,2
+2019-07-01,Regiao Autonoma dos Acores,F,,2019,3
+2019-07-01,Regiao Autonoma dos Acores,M,,2019,3
+2019-07-01,Regiao Autonoma dos Acores,MF,7.300000000000001,2019,3
+2019-10-01,Regiao Autonoma dos Acores,F,,2019,4
+2019-10-01,Regiao Autonoma dos Acores,M,,2019,4
+2019-10-01,Regiao Autonoma dos Acores,MF,7.5,2019,4
+2020-01-01,Regiao Autonoma dos Acores,F,,2020,1
+2020-01-01,Regiao Autonoma dos Acores,M,,2020,1
+2020-01-01,Regiao Autonoma dos Acores,MF,7.1000000000000005,2020,1
+2020-04-01,Regiao Autonoma dos Acores,F,,2020,2
+2020-04-01,Regiao Autonoma dos Acores,M,,2020,2
+2020-04-01,Regiao Autonoma dos Acores,MF,4.7,2020,2
+2020-07-01,Regiao Autonoma dos Acores,F,,2020,3
+2020-07-01,Regiao Autonoma dos Acores,M,,2020,3
+2020-07-01,Regiao Autonoma dos Acores,MF,6.6000000000000005,2020,3
+2020-10-01,Regiao Autonoma dos Acores,F,,2020,4
+2020-10-01,Regiao Autonoma dos Acores,M,,2020,4
+2020-10-01,Regiao Autonoma dos Acores,MF,5.4,2020,4
+2021-01-01,Regiao Autonoma dos Acores,F,7.3,2021,1
+2021-01-01,Regiao Autonoma dos Acores,M,5.8,2021,1
+2021-01-01,Regiao Autonoma dos Acores,MF,6.5,2021,1
+2021-04-01,Regiao Autonoma dos Acores,F,8.7,2021,2
+2021-04-01,Regiao Autonoma dos Acores,M,5.0,2021,2
+2021-04-01,Regiao Autonoma dos Acores,MF,6.7,2021,2
+2021-07-01,Regiao Autonoma dos Acores,F,8.3,2021,3
+2021-07-01,Regiao Autonoma dos Acores,M,5.3,2021,3
+2021-07-01,Regiao Autonoma dos Acores,MF,6.7,2021,3
+2021-10-01,Regiao Autonoma dos Acores,F,8.0,2021,4
+2021-10-01,Regiao Autonoma dos Acores,M,8.1,2021,4
+2021-10-01,Regiao Autonoma dos Acores,MF,8.1,2021,4
+2022-01-01,Regiao Autonoma dos Acores,F,6.6,2022,1
+2022-01-01,Regiao Autonoma dos Acores,M,6.5,2022,1
+2022-01-01,Regiao Autonoma dos Acores,MF,6.5,2022,1
+2022-04-01,Regiao Autonoma dos Acores,F,6.6,2022,2
+2022-04-01,Regiao Autonoma dos Acores,M,5.8,2022,2
+2022-04-01,Regiao Autonoma dos Acores,MF,6.2,2022,2
+2022-07-01,Regiao Autonoma dos Acores,F,6.6,2022,3
+2022-07-01,Regiao Autonoma dos Acores,M,5.7,2022,3
+2022-07-01,Regiao Autonoma dos Acores,MF,6.1,2022,3
+2022-10-01,Regiao Autonoma dos Acores,F,6.1,2022,4
+2022-10-01,Regiao Autonoma dos Acores,M,5.1,2022,4
+2022-10-01,Regiao Autonoma dos Acores,MF,5.6,2022,4
+2023-01-01,Regiao Autonoma dos Acores,F,6.4,2023,1
+2023-01-01,Regiao Autonoma dos Acores,M,6.1,2023,1
+2023-01-01,Regiao Autonoma dos Acores,MF,6.3,2023,1
+2023-04-01,Regiao Autonoma dos Acores,F,7.5,2023,2
+2023-04-01,Regiao Autonoma dos Acores,M,6.0,2023,2
+2023-04-01,Regiao Autonoma dos Acores,MF,6.7,2023,2
+2023-07-01,Regiao Autonoma dos Acores,F,7.0,2023,3
+2023-07-01,Regiao Autonoma dos Acores,M,5.1,2023,3
+2023-07-01,Regiao Autonoma dos Acores,MF,6.0,2023,3
+2023-10-01,Regiao Autonoma dos Acores,F,7.2,2023,4
+2023-10-01,Regiao Autonoma dos Acores,M,6.7,2023,4
+2023-10-01,Regiao Autonoma dos Acores,MF,6.9,2023,4
+2024-01-01,Regiao Autonoma dos Acores,F,7.0,2024,1
+2024-01-01,Regiao Autonoma dos Acores,M,6.5,2024,1
+2024-01-01,Regiao Autonoma dos Acores,MF,6.7,2024,1
+2024-04-01,Regiao Autonoma dos Acores,F,6.5,2024,2
+2024-04-01,Regiao Autonoma dos Acores,M,4.5,2024,2
+2024-04-01,Regiao Autonoma dos Acores,MF,5.5,2024,2
+2024-07-01,Regiao Autonoma dos Acores,F,5.9,2024,3
+2024-07-01,Regiao Autonoma dos Acores,M,4.0,2024,3
+2024-07-01,Regiao Autonoma dos Acores,MF,4.9,2024,3
+2024-10-01,Regiao Autonoma dos Acores,F,6.2,2024,4
+2024-10-01,Regiao Autonoma dos Acores,M,4.7,2024,4
+2024-10-01,Regiao Autonoma dos Acores,MF,5.4,2024,4
+2025-01-01,Regiao Autonoma dos Acores,F,5.6,2025,1
+2025-01-01,Regiao Autonoma dos Acores,M,5.8,2025,1
+2025-01-01,Regiao Autonoma dos Acores,MF,5.7,2025,1
+2025-04-01,Regiao Autonoma dos Acores,F,,2025,2
+2025-04-01,Regiao Autonoma dos Acores,M,4.0,2025,2
+2025-04-01,Regiao Autonoma dos Acores,MF,3.9,2025,2
+2025-07-01,Regiao Autonoma dos Acores,F,4.3,2025,3
+2025-07-01,Regiao Autonoma dos Acores,M,5.2,2025,3
+2025-07-01,Regiao Autonoma dos Acores,MF,4.8,2025,3
+2025-10-01,Regiao Autonoma dos Acores,F,4.3,2025,4
+2025-10-01,Regiao Autonoma dos Acores,M,5.8,2025,4
+2025-10-01,Regiao Autonoma dos Acores,MF,5.1,2025,4
+2026-01-01,Regiao Autonoma dos Acores,F,4.0,2026,1
+2026-01-01,Regiao Autonoma dos Acores,M,6.8,2026,1
+2026-01-01,Regiao Autonoma dos Acores,MF,5.4,2026,1
+2026-04-01,Regiao Autonoma dos Acores,F,5.3,2026,2
+2026-04-01,Regiao Autonoma dos Acores,M,4.8,2026,2
+2026-04-01,Regiao Autonoma dos Acores,MF,5.0,2026,2

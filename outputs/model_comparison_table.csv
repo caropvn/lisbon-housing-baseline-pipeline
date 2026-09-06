@@ -1,0 +1,7 @@
+spec,n_obs,r2_total,r2_within,rmse
+0_pooled_ols,820,0.199,0.7225,0.3868
+0b_entity_fe_only,820,0.7246,0.0,0.2268
+1_twfe_decomposition,820,0.9267,0.0,0.117
+2_entity_fe_trend_covars,820,0.9236,0.7225,0.1195
+3_entity_fe_trend_mortgage_restricted,520,0.9777,0.8289,0.0689
+5_growth_convergence,800,0.1195,0.0593,0.0267
