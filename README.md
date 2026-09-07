@@ -38,4 +38,4 @@ python scripts/run_baseline.py
 
 The full two-way fixed-effects specification with national controls is expected to report an absorption/collinearity error. Those variables do not vary across districts within a quarter, so quarter fixed effects absorb them. This is reported as a limitation of the baseline design, not silently ignored.
 
-The `.venv/` environment and macOS metadata are excluded from version control. A friend should create their own environment using `requirements.txt`.
+The `.venv/` environment and macOS metadata are excluded from version control. For reproducability a separate own environment using `requirements.txt` should be created.

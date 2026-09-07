@@ -4,3 +4,4 @@ linearmodels==6.1
 matplotlib>=3.7
 jupyter>=1.0
 notebook>=7.0
+seaborn
