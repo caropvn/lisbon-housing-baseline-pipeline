@@ -267,3 +267,7 @@ The pipeline’s core logic is sound as a baseline:
 6. Use results to show that the current data cannot identify local causal effects.
 
 The key next step is not yet a more complex model. It is to move from this **Portugal district comparison panel** to a **Lisbon local-exposure panel**, ideally freguesia by quarter, with a treatment that varies by place and time. Only then can you use DML, Causal Forests, spatial models, or event studies to answer the actual Field Lab question. 
+
+
+
+
